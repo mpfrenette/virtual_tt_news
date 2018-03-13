@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for extension 'cablan_virtual_tt_news'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="extmng.virtual_page">Page where to link the menu</label>
+			<label index="extmng.entryLevel">Entry Level</label>
+			<label index="extmng.parentCategory">Virtual tt_news parent category</label>
+			<label index="extmng.excludeUidList">excludeUidList</label>
+			<label index="extmng.wrap">Whole menu wrap</label>
+			<label index="extmng.1.wrap">1.wrap</label>
+			<label index="extmng.1.NO.wrap">1.NO.wrap (Supports Option Split)</label>
+			<label index="extmng.1.ACT.wrap">1.ACT.wrap (Supports Option Split)</label>
+			<label index="extmng.1.expAll">1.expAll</label>
+			<label index="extmng.2.enable">2.enable</label>
+			<label index="extmng.2.wrap">2.wrap</label>
+			<label index="extmng.2.NO.wrap">2.NO.wrap (Supports Option Split)</label>
+			<label index="extmng.2.ACT.wrap">2.ACT.wrap (Supports Option Split)</label>
+			<label index="extmng.2.expAll">2.expAll</label>
+			<label index="extmng.3.enable">3.enable</label>
+			<label index="extmng.3.wrap">3.wrap</label>
+			<label index="extmng.3.NO.wrap">3.NO.wrap (Supports Option Split)</label>
+			<label index="extmng.3.ACT.wrap">3.ACT.wrap (Supports Option Split)</label>
+			<label index="extmng.3.expAll">3.expAll</label>
+			<label index="extmng.4.enable">4.enable</label>
+			<label index="extmng.4.wrap">4.wrap</label>
+			<label index="extmng.4.NO.wrap">4.NO.wrap (Supports Option Split)</label>
+			<label index="extmng.4.ACT.wrap">4.ACT.wrap (Supports Option Split)</label>
+			<label index="extmng.4.expAll">4.expAll</label>
+			<label index="extmng.5.enable">5.enable</label>
+			<label index="extmng.5.wrap">5.wrap</label>
+			<label index="extmng.5.NO.wrap">5.NO.wrap (Supports Option Split)</label>
+			<label index="extmng.5.ACT.wrap">5.ACT.wrap (Supports Option Split)</label>
+			<label index="extmng.5.expAll">5.expAll</label>
+		</languageKey>
+	</data>
+</T3locallang>

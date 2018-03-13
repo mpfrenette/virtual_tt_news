@@ -1,0 +1,2 @@
+# cat=basic/enable/1; type=int; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.parentCategory
+virtual_tt_news.parentCategory = 0

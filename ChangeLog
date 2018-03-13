@@ -1,0 +1,16 @@
+2011-06-13 Martin-Pierre Frenette  <typo3@cablan.net>
+
+	* Added the mount point and the sorting flag
+
+2011-04-18 Martin-Pierre Frenette  <typo3@cablan.net>
+
+	* Added the tt_news hook
+
+2010-05-12 Martin-Pierre Frenette  <typo3@cablan.net>
+
+	* main code written
+
+2010-05-07 Martin-Pierre Frenette  <typo3@cablan.net>
+
+	* initial code generated with kickstarter
+

@@ -1,0 +1,38 @@
+plugin.tx_cablanvirtualttnews_pi1 {
+		test =3
+		virtual_page = {$plugin.tx_cablanvirtualttnews_pi1.virtual_page}
+		parentCategory = {$plugin.tx_cablanvirtualttnews_pi1.parentCategory}
+		entryLevel = {$plugin.tx_cablanvirtualttnews_pi1.entryLevel}
+		menuWrap = {$plugin.tx_cablanvirtualttnews_pi1.menuWrap}
+		excludeUidList = {$plugin.tx_cablanvirtualttnews_pi1.excludeUidList}
+		1.wrap  = {$plugin.tx_cablanvirtualttnews_pi1.1.wrap}
+		1.NO.wrapItemAndSub = {$plugin.tx_cablanvirtualttnews_pi1.1.NO.wrapItemAndSub}
+		1.ACT.wrapItemAndSub = {$plugin.tx_cablanvirtualttnews_pi1.1.ACT.wrapItemAndSub}
+		1.expAll = {$plugin.tx_cablanvirtualttnews_pi1.1.expAll}
+		2. = {$plugin.tx_cablanvirtualttnews_pi1.2.enable}
+		2.wrap = {$plugin.tx_cablanvirtualttnews_pi1.2.wrap}
+		2.enable = {$plugin.tx_cablanvirtualttnews_pi1.2.enable}
+		2.NO.wrapItemAndSub = {$plugin.tx_cablanvirtualttnews_pi1.2.NO.wrapItemAndSub}
+		2.ACT.wrapItemAndSub = {$plugin.tx_cablanvirtualttnews_pi1.2.ACT.wrapItemAndSub}
+		2.expAll = {$plugin.tx_cablanvirtualttnews_pi1.2.expAll}
+		3. = {$plugin.tx_cablanvirtualttnews_pi1.3.enable}
+		3.wrap = {$plugin.tx_cablanvirtualttnews_pi1.3.wrap}
+		3.enable = {$plugin.tx_cablanvirtualttnews_pi1.3.enable}
+		3.NO.wrapItemAndSub = {$plugin.tx_cablanvirtualttnews_pi1.3.NO.wrapItemAndSub}
+		3.ACT.wrapItemAndSub = {$plugin.tx_cablanvirtualttnews_pi1.3.ACT.wrapItemAndSub}
+		3.expAll = {$plugin.tx_cablanvirtualttnews_pi1.3.expAll}
+		4. = {$plugin.tx_cablanvirtualttnews_pi1.4.enable}
+		4.wrap = {$plugin.tx_cablanvirtualttnews_pi1.4.wrap}
+		4.enable = {$plugin.tx_cablanvirtualttnews_pi1.4.enable}
+		4.NO.wrapItemAndSub = {$plugin.tx_cablanvirtualttnews_pi1.4.NO.wrapItemAndSub}
+		4.ACT.wrapItemAndSub = {$plugin.tx_cablanvirtualttnews_pi1.4.ACT.wrapItemAndSub}
+		4.expAll = {$plugin.tx_cablanvirtualttnews_pi1.4.expAll}
+		5. = {$plugin.tx_cablanvirtualttnews_pi1.5.enable}
+		5.wrap = {$plugin.tx_cablanvirtualttnews_pi1.5.wrap}
+		5.enable = {$plugin.tx_cablanvirtualttnews_pi1.5.enable}
+		5.NO.wrapItemAndSub = {$plugin.tx_cablanvirtualttnews_pi1.5.NO.wrapItemAndSub}
+		5.ACT.wrapItemAndSub = {$plugin.tx_cablanvirtualttnews_pi1.5.ACT.wrapItemAndSub}
+		5.expAll = {$plugin.tx_cablanvirtualttnews_pi1.5.expAll}
+
+		}
+

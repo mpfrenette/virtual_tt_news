@@ -1,0 +1,90 @@
+
+plugin.tx_cablanvirtualttnews_pi1 {
+
+  # cat=virtual_tt_news//01; type=int; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.virtual_page
+virtual_page = 0
+
+  # cat=virtual_tt_news//02; type=int; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.parentCategory
+parentCategory = 0
+
+  # cat=virtual_tt_news//03; type=int; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.entryLevel
+entryLevel = 0
+
+  # cat=virtual_tt_news//04; type=string; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.wrap
+menuWrap = |
+
+  # cat=virtual_tt_news//10; type=string; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.1.wrap
+1.wrap = <ul>|</ul>
+
+  # cat=virtual_tt_news//11; type=string; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.1.NO.wrap
+1.NO.wrapItemAndSub = <li>|</li>
+
+  # cat=virtual_tt_news//12; type=string; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.1.ACT.wrap
+1.ACT.wrapItemAndSub = <li>|</li>
+
+
+  # cat=virtual_tt_news//13; type=boolean; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.1.expAll
+1.expAll = 1
+
+# cat=virtual_tt_news//20; type=boolean; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.2.enable
+2.enable = 1
+
+  # cat=virtual_tt_news//21; type=string; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.2.wrap
+2.wrap = <ul>|</ul>
+
+  # cat=virtual_tt_news//22; type=string; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.2.NO.wrap
+2.NO.wrapItemAndSub = <li>|</li>
+
+# cat=virtual_tt_news//23; type=string; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.2.ACT.wrap
+2.ACT.wrapItemAndSub = <li>|</li>
+
+  # cat=virtual_tt_news//24; type=boolean; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.2.expAll
+2.expAll = 1
+
+# cat=virtual_tt_news//20; type=boolean; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.3.enable
+3.enable = 1
+
+  # cat=virtual_tt_news//21; type=string; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.3.wrap
+3.wrap = <ul>|</ul>
+
+  # cat=virtual_tt_news//22; type=string; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.3.NO.wrap
+3.NO.wrapItemAndSub = <li>|</li>
+
+# cat=virtual_tt_news//23; type=string; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.3.ACT.wrap
+3.ACT.wrapItemAndSub = <li>|</li>
+
+   # cat=virtual_tt_news//24; type=boolean; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.3.expAll
+3.expAll = 1
+
+# cat=virtual_tt_news//20; type=boolean; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.4.enable
+4.enable = 1
+
+  # cat=virtual_tt_news//21; type=string; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.4.wrap
+4.wrap = <ul>|</ul>
+
+  # cat=virtual_tt_news//22; type=string; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.4.NO.wrap
+4.NO.wrapItemAndSub = <li>|</li>
+
+# cat=virtual_tt_news//23; type=string; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.4.ACT.wrap
+4.ACT.wrapItemAndSub = <li>|</li>
+
+  # cat=virtual_tt_news//24; type=boolean; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.4.expAll
+4.expAll = 1
+
+# cat=virtual_tt_news//20; type=boolean; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.5.enable
+5.enable = 1
+
+  # cat=virtual_tt_news//21; type=string; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.5.wrap
+5.wrap = <ul>|</ul>
+
+  # cat=virtual_tt_news//22; type=string; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.5.NO.wrap
+5.NO.wrapItemAndSub = <li>|</li>
+
+# cat=virtual_tt_news//23; type=string; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.5.ACT.wrap
+5.ACT.wrapItemAndSub = <li>|</li>
+
+  # cat=virtual_tt_news//24; type=boolean; label=LLL:EXT:cablan_virtual_tt_news/locallang.xml:extmng.5.expAll
+5.expAll = 1
+
+
+}
